@@ -46,8 +46,8 @@ public class Main {
 
         }
         /*autre méthode
-        for (int i = 0; i < aLouer.length; i++) {
-            System.out.println((aLouer[i] != null ? aLouer[i]: ""));
+        for (int i = 0; i < tabCycles.length; i++) {
+            System.out.println((tabCycles[i] != null ? tabCycles[i]: ""));
 
         }
 
